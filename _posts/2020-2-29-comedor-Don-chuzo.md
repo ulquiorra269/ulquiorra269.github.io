@@ -9,16 +9,16 @@ title: Don Chuzo
 <ol>Domingos y días festivos: 8:00 a 22:45 hrs</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png)
 
-<h1>Nuestro menu<h1>
+<h1>Nuestro menu</h1>
 <ul>
-<li>Arroz con Menestra y Pollo</li>
-<li>Arroz con Menestra y carne</li>
-<li>Arroz con Menestra y chuleta</li>
-<li>Arroz con Menestra y chuzo</li>
-<li>Arroz con Menestra y pescado</li>
-<li>seco de pollo</li>
-<li>seco de chivo</li> 
-<li>seco de chancho</li>
+<ol>Arroz con Menestra y Pollo</ol>
+<ol>Arroz con Menestra y carne</ol>
+<ol>Arroz con Menestra y chuleta</ol>
+<ol>Arroz con Menestra y chuzo</ol>
+<ol>Arroz con Menestra y pescado</ol>
+<ol>seco de pollo</ol>
+<ol>seco de chivo</ol> 
+<ol>seco de chancho</ol>
 </ul>
 <ul>
 <li>Arroz con Menestra y Pollo</li>
