@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Somos un restaurante con más de 10 años de experiencia, ofrecemos calidad en nuestros alimentos y bebidas a precios muy accesibles: con sugerencias nuevas de lunes a viernes y nuestros tradicionales platillos.
 
-### More Information
+### Galería Fotográfica
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
