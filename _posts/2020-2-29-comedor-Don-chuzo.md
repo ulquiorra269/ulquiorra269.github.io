@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comedor mina
+title: Don Chuzo
 ---
 #HORARIO DEL RESTAURANTE
 
