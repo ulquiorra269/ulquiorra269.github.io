@@ -21,21 +21,21 @@ title: Don Chuzo
 <ol>seco de chancho</ol>
 </ul>
 <ul>
-<ol>Arroz con Menestra y Pollo</ol>
+<ol>Arroz con Menestra y Pollo</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png)
-<ol>Arroz con Menestra y carne</ol>
+<ul><ol>Arroz con Menestra y carne</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png)
-<ol>Arroz con Menestra y chuleta</ol>
+<ul><ol>Arroz con Menestra y chuleta</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png) 
-<ol>Arroz con Menestra y chuzo</ol>
+<ul><ol>Arroz con Menestra y chuzo</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png) 
-<ol>Arroz con Menestra y pescado</ol>
+<ul><ol>Arroz con Menestra y pescado</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png)  
-<ol>seco de pollo</ol>
+<ul><ol>seco de pollo</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png) 
-<ol>seco de chivo</ol>
+<ul><ol>seco de chivo</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png) 
-<ol>seco de chancho</ol>
+<ul><ol>seco de chancho</ol></ul>
 ![_config.yml]({{ site.baseurl }}/images/2.png)  
-</ul>
+
 
