@@ -22,20 +22,20 @@ title: Don Chuzo
 </ul>
 <ul>
 <li>Arroz con Menestra y Pollo</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>
+![_config.yml]({{ site.baseurl }}/images/2.png)
 <li>Arroz con Menestra y carne</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>
+![_config.yml]({{ site.baseurl }}/images/2.png)
 <li>Arroz con Menestra y chuleta</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>  
+![_config.yml]({{ site.baseurl }}/images/2.png) 
 <li>Arroz con Menestra y chuzo</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>  
+![_config.yml]({{ site.baseurl }}/images/2.png) 
 <li>Arroz con Menestra y pescado</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>  
+![_config.yml]({{ site.baseurl }}/images/2.png)  
 <li>seco de pollo</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>  
+![_config.yml]({{ site.baseurl }}/images/2.png) 
 <li>seco de chivo</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>  
+![_config.yml]({{ site.baseurl }}/images/2.png) 
 <li>seco de chancho</li>
-<li>![_config.yml]({{ site.baseurl }}/images/2.png)</li>   
+![_config.yml]({{ site.baseurl }}/images/2.png)  
 </ul>
 
